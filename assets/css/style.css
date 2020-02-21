@@ -174,9 +174,6 @@ footer article a{
 /* --------------------------------MEDIA ANFANG -----------------------------*/
 
 @media only screen and (max-width: 900px) {
-    body{
-        background-color: pink;
-    }
     header{
         height: 80px;
     }
