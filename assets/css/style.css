@@ -68,7 +68,7 @@ header ul li a{
 }
 .ArtikelGross img:hover{
     filter: opacity(40%);
-    transition-duration: 0.5s;
+    transition-duration: 0.3s;
 }
 
 .beschreibung{
